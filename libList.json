@@ -1,0 +1,20 @@
+{
+    "libList": [
+        "finExam.json",
+        "topic1.json",
+        "topic2.json",
+        "topic3.json",
+        "topic4.json",
+        "topic5.json",
+        "topic6.json",
+        "topic7.json",
+        "az104t1.json",
+        "az104t2.json",
+        "az104t3.json",
+        "az104t4.json",
+        "az104t5.json",
+        "az305t1.json",
+        "az305t2.json",
+        "az305t3.json"
+    ]
+}
