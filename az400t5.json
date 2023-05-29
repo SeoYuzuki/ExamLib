@@ -97,7 +97,7 @@
               "Which two actions should you include in the recommendation? Each correct answer presents part of the solution."
           ],
           "answersList": [
-              "A"
+              "B","C"
           ],
           "answerType": "choice",
           "options": [
@@ -116,23 +116,7 @@
               {
                   "optTitle": "D",
                   "optContent": "Integrate Azure DevOps and Azure DevTest Labs."
-              },
-              {
-                  "optTitle": "E",
-                  "optContent": "Gradle"
-              },
-              {
-                  "optTitle": "F",
-                  "optContent": "CocoaPods"
-              },
-              {
-                  "optTitle": "G",
-                  "optContent": "Grunt"
-              },
-              {
-                  "optTitle": "H",
-                  "optContent": "Gulp"
-              }
+              }              
           ]
       },
       {
