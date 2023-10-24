@@ -1,0 +1,1406 @@
+{
+    "topicName": "銀行內部控制與內部稽核測驗 38 銀行內部控制與內部稽核 ",
+    "topicInfo": "Proficiency Test for Bank Internal Control and Audit 38",
+    "questionElementList": [
+        {
+            "title": "1",
+            "question": [
+                "依銀行法規定，外國銀行在臺分行擬申請辦理涉及外匯之業務時，應經下列何機關之許可？ "
+            ],
+            "answersList": [
+                "2"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "財政部 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "中央銀行 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "經濟部 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "外交部 "
+                }
+            ]
+        },
+        {
+            "title": "2",
+            "question": [
+                "依銀行法規定，銀行對購買或建造住宅或企業用建築，得辦理中、長期放款，除對於無自用住宅者購買自用住宅之放款外，其最長期限不得超過多少年？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "十年 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "十五年 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "二十年 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "三十年 "
+                }
+            ]
+        },
+        {
+            "title": "3",
+            "question": [
+                "依「金融控股公司法」規定，所謂「子公司」，除指控制性持股之類型外，係指金融控股公司持有已發行有表決權股份總數或資本總額超過多少百分比之其他公司？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": " 20% "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": " 30% "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": " 40% "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": " 50% "
+                }
+            ]
+        },
+        {
+            "title": "4",
+            "question": [
+                "依「金融控股公司法」規定，金融機構轉換為金融控股公司時，同一人或同一關係人單獨、共同或合計持有金融控股公司已發行有表決權股份總數超過百分之多少者，應向主管機關申報？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": " 2% "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": " 3% "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": " 5% "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": " 10% "
+                }
+            ]
+        },
+        {
+            "title": "5",
+            "question": [
+                "依「金融控股公司及銀行業內部控制及稽核制度實施辦法」規定，內部控制之基本目的在於促進銀行健全經營，並應由下列何者與管理階層及所有從業人員共同遵守？ "
+            ],
+            "answersList": [
+                "1"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "董（理）事會 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "董（理）事長 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "監察人 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "總經理 "
+                }
+            ]
+        },
+        {
+            "title": "6",
+            "question": [
+                "依「金融控股公司及銀行業內部控制及稽核制度實施辦法」規定，銀行營業、財務、資產保管及資訊單位每年應至少辦理一般自行查核幾次？ "
+            ],
+            "answersList": [
+                "2"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "一次 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "二次 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "三次 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "四次 "
+                }
+            ]
+        },
+        {
+            "title": "7",
+            "question": [
+                "依「金融控股公司及銀行業內部控制及稽核制度實施辦法」規定，銀行年度財務報表由會計師辦理查核簽證時，應委託會計師辦理下列何項之查核（經主管機關依法接管者除外）？ "
+            ],
+            "answersList": [
+                "1"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "內部控制制度 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "自行查核制度 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "內部稽核制度 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "人事制度 "
+                }
+            ]
+        },
+        {
+            "title": "8",
+            "question": [
+                "依「金融控股公司及銀行業內部控制及稽核制度實施辦法」規定，金融控股公司及銀行業管理單位及營業單位發生重大缺失或弊端時，內部稽核單位除應於內部稽核報告中充分揭露對重大缺失應負責之失職人員以外，尚有下列何項權利？ "
+            ],
+            "answersList": [
+                "3"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "獎賞權 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "沉默權 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "懲處建議權 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "升遷權 "
+                }
+            ]
+        },
+        {
+            "title": "9",
+            "question": [
+                "依「金融控股公司及銀行業內部控制及稽核制度實施辦法」規定，內部稽核單位之人事任用、免職、升遷、獎懲、輪調及考核等，應由下列何者簽報，報經董（理）事長（主席）核定後辦理？ "
+            ],
+            "answersList": [
+                "2"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "總經理 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "總稽核 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "襄理 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "經辦 "
+                }
+            ]
+        },
+        {
+            "title": "10",
+            "question": [
+                "依「銀行業公司治理實務守則」規定，若某甲任銀行之監察人，下列何者不得擔任同一銀行之董事？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "某甲之姪女  "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "某甲兄弟姐妹之配偶 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "某甲配偶之兄弟  "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "某甲之孫 "
+                }
+            ]
+        },
+        {
+            "title": "11",
+            "question": [
+                "依「金融控股公司及銀行業內部控制及稽核制度實施辦法」規定，下列何者非屬得對銀行業提列檢查意見或查核缺失之單位或人員？ "
+            ],
+            "answersList": [
+                "3"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "內部稽核單位 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "委任之會計師 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "財政部 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "金融檢查機關 "
+                }
+            ]
+        },
+        {
+            "title": "12",
+            "question": [
+                "依「金融控股公司及銀行業內部控制及稽核制度實施辦法」規定，內部稽核單位之人事任用、免職、升遷、輪調等，如涉及其他營業單位人事者，應事先洽商下列何單位轉報總經理同意後，再行簽報董（理）事長（主席）核定？ "
+            ],
+            "answersList": [
+                "1"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "人事單位 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "業務單位 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "作業單位 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "內部稽核單位 "
+                }
+            ]
+        },
+        {
+            "title": "13",
+            "question": [
+                "依「金融機構安全維護注意要點」規定，有關金融機構運鈔作業，下列敘述何者正確？ "
+            ],
+            "answersList": [
+                "1"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "得委由合格保全業者運鈔 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "運鈔時間與路線應固定 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "使用未經改裝之普通汽車以掩人耳目 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "非工作人員可搭乘運鈔車  "
+                }
+            ]
+        },
+        {
+            "title": "14",
+            "question": [
+                "依「金融機構安全設施設置基準」規定，設有保全之單位，其保全防盜設施第一道防線之對象為何？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "行舍內各空間 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "金庫外圍死角 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "金庫室內 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "各保全標的之門窗  "
+                }
+            ]
+        },
+        {
+            "title": "15",
+            "question": [
+                "依「金融機構自動櫃員機安全防護準則」規定，有關自動櫃員機之補鈔作業，下列敘述何者錯誤？ "
+            ],
+            "answersList": [
+                "2"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "補鈔只更換鈔匣 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "補鈔時應在現場清點鈔券 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "補鈔作業應有兩人以上共同執行 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "設於營業處所外之自動櫃員機補鈔，得委由合格且信譽良好之專業運鈔保全業者協助辦理 "
+                }
+            ]
+        },
+        {
+            "title": "16",
+            "question": [
+                "依「金融機構安全維護注意要點」規定，金融機構營業廳及重要處所應裝置報警系統，並配合警方測試，其檢查之頻率為何？ "
+            ],
+            "answersList": [
+                "1"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "每月二次 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "每季二次 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "每半年二次 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "每年二次 "
+                }
+            ]
+        },
+        {
+            "title": "17",
+            "question": [
+                "有關金庫鑰匙及密碼之管理，下列何者符合內部控制及安全維護原則？ "
+            ],
+            "answersList": [
+                "2"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "由分行經理集中控管  "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "指定二人以上分別控管 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "交由值班同仁集中保管 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "交由保全公司人員保管 "
+                }
+            ]
+        },
+        {
+            "title": "18",
+            "question": [
+                "依「金融同業間遭歹徒詐騙案件通報要點」規定，下列敘述何者錯誤？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "總管理機構應將聯絡單位名稱、聯絡人，及代理人員等資料以書面通知金融聯合徵信中心 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "金融聯合徵信中心應指定人員負責擔任本項通報業務 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "各金融機構所屬分支機構如發現歹徒詐騙情事時，無論是否得逞，應立即依通報系統進行通報 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "各金融機構所屬分支機構如發現歹徒詐騙情事時，應立即通報經濟犯罪防制中心 "
+                }
+            ]
+        },
+        {
+            "title": "19",
+            "question": [
+                "依「信用卡業務機構管理辦法」規定，有關核發學生信用卡應遵守事項，下列敘述何者錯誤？ "
+            ],
+            "answersList": [
+                "3"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "受理二十歲以上之學生申請信用卡，應確認其有充分之還款能力 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "學生持有正卡，以三家發卡機構為限 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "每家發卡機構所核給之歸戶額度不得逾新臺幣三萬元 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "發卡機構應將其發卡情事函知其父母 "
+                }
+            ]
+        },
+        {
+            "title": "20",
+            "question": [
+                "信用卡發卡機構對爭議款項至遲應於受理後幾日內回覆持卡人處理狀況或進度？ "
+            ],
+            "answersList": [
+                "3"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "五日 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "七日 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "十四日 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "三十日 "
+                }
+            ]
+        },
+        {
+            "title": "21",
+            "question": [
+                "依「信用卡業務機構管理辦法」規定，信用卡發卡機構對當期應繳最低金額超過指定繳款期限一個月至三個月者，應依全部墊款金額提列至少多少比例之備抵呆帳？ "
+            ],
+            "answersList": [
+                "2"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "百分之一 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "百分之二 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "百分之三 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "百分之五 "
+                }
+            ]
+        },
+        {
+            "title": "22",
+            "question": [
+                "依「信用卡業務機構管理辦法」規定，下列何者非屬信用卡業務？ "
+            ],
+            "answersList": [
+                "2"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "簽訂特約商店  "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "發行海外存託憑證 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "辦理信用卡預借現金業務 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "代理收付特約商店信用卡消費帳款 "
+                }
+            ]
+        },
+        {
+            "title": "23",
+            "question": [
+                "依「信用卡業務機構管理辦法」規定，信用卡發卡機構欲增加向持卡人收取之年費或提高其利率時，應於多少日前以書面或事先與持卡人約定之電子文件通知持卡人？ "
+            ],
+            "answersList": [
+                "3"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "十五日 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "三十日 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "六十日 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "九十日 "
+                }
+            ]
+        },
+        {
+            "title": "24",
+            "question": [
+                "客戶持兌之偽造外國幣券總值未達央行規定之金額以上者，其處理方式，下列何者錯誤？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "當面向持兌人說明係偽（變）造幣券 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "將幣券蓋戳章作廢 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "製發收據給客戶  "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "將原幣券退還客戶 "
+                }
+            ]
+        },
+        {
+            "title": "25",
+            "question": [
+                "依「中華民國銀行公會會員授信準則」規定，下列敘述何者錯誤？ "
+            ],
+            "answersList": [
+                "1"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "銀行於一定之比例之下，得受理公司組職之企業，以其本公司發行之股票辦理質押授信 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "銀行辦理股票質押授信時，應向金融聯合徵信中心等相關單位查詢該標的股票設質情形，以為核貸參考 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "銀行應瞭解股票發行公司主要股東、董事、監察人、經理人及該公司全部股票之質押比率，作為核貸參考 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "銀行受理股票發行公司授信申請案件時，應參酌該公司股票質押之情形，一併進行評估  "
+                }
+            ]
+        },
+        {
+            "title": "26",
+            "question": [
+                "銀行辦理應收帳款承購業務，係屬下列何種業務？ "
+            ],
+            "answersList": [
+                "2"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "外匯業務 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "授信業務 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "信託業務 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "衍生性金融商品業務 "
+                }
+            ]
+        },
+        {
+            "title": "27",
+            "question": [
+                "有關商業銀行投資有價證券需符合之信用評等，下列敘述何者正確？  "
+            ],
+            "answersList": [
+                "3"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "中華信用評等長期信評達 twA-3等級以上 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "惠譽(Fitch, Inc.)短期信評 BBB-等級以上 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "標準普爾(Standard & Poor’s)短期信評 A-3等級以上 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "穆迪(Moody’s)短期信評 Baa3等級以上  "
+                }
+            ]
+        },
+        {
+            "title": "28",
+            "question": [
+                "依「票券金融管理辦法」規定，票券商不得辦理簽證承銷之票券，為下列何者？ "
+            ],
+            "answersList": [
+                "2"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "國庫券   "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "發行人未經信用評等機構評等之短期票券 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "經金融機構保證且該金融機構經信用評等機構評等之短期票券 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "基於勞務提供而產生且經受款人背書之匯票 "
+                }
+            ]
+        },
+        {
+            "title": "29",
+            "question": [
+                "依據國際清算銀行巴塞爾監理委員會所訂「內部控制制度評估原則」，有關高階管理階層之職責，下列敘述何者錯誤？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "執行董事會所核准之營運策略及政策 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "研訂作業程序以辨識、衡量、監視及控管風險 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "確保授權辦法得以有效執行 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "作業流程及手冊之校訂 "
+                }
+            ]
+        },
+        {
+            "title": "30",
+            "question": [
+                "依國際清算銀行巴塞爾監理委員會所訂「內部控制制度評估原則」規定，下列何者應瞭解銀行營運風險，並據以訂定銀行可承擔風險限額？  "
+            ],
+            "answersList": [
+                "1"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "董事會 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "總經理 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "高階管理階層 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "稽核委員會 "
+                }
+            ]
+        },
+        {
+            "title": "31",
+            "question": [
+                "為防止金融弊端發生，下列何者不宜兼辦出納或經理財物之事務？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "存款業務主管  "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "放款業務主管  "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "匯兌業務主管  "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "會計業務主管 "
+                }
+            ]
+        },
+        {
+            "title": "32",
+            "question": [
+                "為避免發生詐騙集團偽造有價證券，行詐騙資金情事，下列敘述何者錯誤？ "
+            ],
+            "answersList": [
+                "3"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "辦理有價證券買賣業務，應由中、後台人員與交易對手確認交易內容 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "辦理有價證券買賣交割時應再詳查交易對手之身分證明並確認有價證券之真實性 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "對於相關票據之處理，應授權承辦人員視實際情況得將抬頭人禁止背書轉讓之支票轉讓存入他人帳戶 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "辦理定期存款業務，對於定存單之交割，應確實認證交割人員之身分及交易之真實性 "
+                }
+            ]
+        },
+        {
+            "title": "33",
+            "question": [
+                "健全海外分行之內部控制，有關人力方面須採下列哪一項配套措施？ "
+            ],
+            "answersList": [
+                "1"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "加強品德考核及法治教育 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "增加聘僱當地人員 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "提高薪資待遇  "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "准予分紅入股 "
+                }
+            ]
+        },
+        {
+            "title": "34",
+            "question": [
+                "依主管機關規定，銀行對於大額交易應注意事項，下列敘述何者錯誤？ "
+            ],
+            "answersList": [
+                "3"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "應切實查證其交易之真實性  "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "應嚴格禁止辦理以提現名義，實為轉帳交易 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "驗對印鑑相符即可   "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "應符合洗錢防制法規定 "
+                }
+            ]
+        },
+        {
+            "title": "35",
+            "question": [
+                "金融機構對於存戶未即時領回存摺時應如何處理，下列敘述何者正確？ "
+            ],
+            "answersList": [
+                "3"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "由存款經辦人員負責保管  "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "應予註銷作廢 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "應設簿登記，交指定主管人員保管，並列入內部稽核項目 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "置放服務台以利客戶存提款項 "
+                }
+            ]
+        },
+        {
+            "title": "36",
+            "question": [
+                "有關活期存款依約定方式提取存款之規範，下列敘述何者正確？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "金融機構不得與客戶約定由金融機構將活期存款轉入其他金融機構之帳戶 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "金融機構不得與客戶約定由金融機構將活期存款轉入同一金融機構之帳戶 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "客戶可概括授權金融機構將活期存款轉入支票存款帳戶 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "金融機構依約定辦理轉帳後，應寄發對帳通知 "
+                }
+            ]
+        },
+        {
+            "title": "37",
+            "question": [
+                "對購入經同一金融機構保證或承兌之有價證券應如何控管，以降低交易風險？ "
+            ],
+            "answersList": [
+                "2"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "設最低額度 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "設最高額度 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "設機動額度 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "不設額度 "
+                }
+            ]
+        },
+        {
+            "title": "38",
+            "question": [
+                "為防範行員勾結不法集團以偽造所得扣繳憑單等財力證明資料詐騙冒貸，金融機構辦理消費性放款，下列敘述何者錯誤？ "
+            ],
+            "answersList": [
+                "3"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "對借戶填寫之申請書資料內容應詳為查證 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "對借戶提供之身分證明文件，應至內政部戶役政網站查詢，並確實核對客戶身分 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "如委託第三人為消費性放款之行銷或客戶身分及親筆簽名之核對等業務，金融機構無需再辦理徵授信作業 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "嚴禁行員與放款客戶或金融機構委託處理業務之第三人間有資金往來 "
+                }
+            ]
+        },
+        {
+            "title": "39",
+            "question": [
+                "為確保票券業務之交易安全，金融機構於買入商業本票時應注意之事項，下列敘述何者錯誤？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "應確實核對認證商業本票保證章 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "應確實確認交易對手與交易內容  "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "應注意付款支票之受款人是否為交易對手 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "應一律開具無抬頭無禁止背書支票付款 "
+                }
+            ]
+        },
+        {
+            "title": "40",
+            "question": [
+                "有關金融機構之安全維護，下列敘述何者錯誤？ "
+            ],
+            "answersList": [
+                "2"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "應進行員工自衛編組  "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "僱用之駐衛警察應固定站立門口，以儘早發現歹徒 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "應灌輸行員「安全防護，人人有責」之觀念 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "未能購置運鈔車時，應協調委託合格保全公司運送 "
+                }
+            ]
+        },
+        {
+            "title": "41",
+            "question": [
+                "有關金融機構對於自動櫃員機安全維護之管理，下列敘述何者正確？ "
+            ],
+            "answersList": [
+                "1"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "有無建立 ATM異常提領監控機制 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "對自動櫃員機及週遭監視之錄影帶應保存二個月 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "自動化服務區應張貼「須刷卡入內」告示 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "僅須建立自動櫃員機每營業日定時巡查作反偵測機制 "
+                }
+            ]
+        },
+        {
+            "title": "42",
+            "question": [
+                "有關銀行作業委託他人處理之規定，下列敘述何者正確？ "
+            ],
+            "answersList": [
+                "1"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "受委託機構執行業務不得以銀行名義為之 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "受委託機構人員應明白表達為金融機構行員 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "受委託機構營業處所應明顯張掛銀行招牌，以利消費者辨識 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "受委託機構不得進行不實廣告，但辦理貸款行銷作業時，得向客戶收取諮詢顧問費 "
+                }
+            ]
+        },
+        {
+            "title": "43",
+            "question": [
+                "警察機關因偵辦刑事案件需要，註明案由，向金融機構查詢有關客戶之存放款資料，下列敘述何者正確？ "
+            ],
+            "answersList": [
+                "3"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "金融機構應拒絕受理，以確保客戶資料之保密 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "須報主管機關核准，並正式備文，金融機構才可受理 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "原則上須經由警察局局長（副局長）或警察總隊總隊長（副總隊長）判行 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "僅須警察分局分局長來電，警察機關毋須正式備文，金融機構即可受理，以爭取時效 "
+                }
+            ]
+        },
+        {
+            "title": "44",
+            "question": [
+                "金融機構為落實於客戶開戶時確認客戶身分，可利用下列何單位之查詢系統，以確定該客戶身分證是否遺失被竊？ "
+            ],
+            "answersList": [
+                "2"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "財政部 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "內政部 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "交通部 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "法務部 "
+                }
+            ]
+        },
+        {
+            "title": "45",
+            "question": [
+                "有關主管機關所稱銀行業通報「重大偶發事件」，下列敘述何者錯誤？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "地震、水災、火災、風災等 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "業務方面有重大財物損失者 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "媒體報導足以影響銀行業信譽者 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "係僅以損失金額為絕對要件者 "
+                }
+            ]
+        },
+        {
+            "title": "46",
+            "question": [
+                "依主管機關規定，金融機構應指定下列何者專責督導「警示帳戶」內剩餘款項之發還事宜？ "
+            ],
+            "answersList": [
+                "2"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "經理 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "副總經理 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "總經理 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "董事會 "
+                }
+            ]
+        },
+        {
+            "title": "47",
+            "question": [
+                "依主管機關規定，有關各金融機構辦理授信業務，下列敘述何者錯誤？  "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "綜合評估授信戶與其有關聯企業暨相關自然人等之資產、負債與營運量等  "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "建立授信戶與其有關聯企業暨相關自然人之授信歸戶制度  "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "綜合評估其資金需求，並密切注意防止詐騙性虛設行號集團之冒貸案件發生  "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "對於借款戶以關係企業為受益人，申貸國內信用狀融資者，無須查證其實際交易及評估融資必要性 "
+                }
+            ]
+        },
+        {
+            "title": "48",
+            "question": [
+                "下列何者非屬銀行法第 32條所稱消費者貸款之範圍？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "房屋修繕貸款 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "汽車貸款 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "信用卡循環信用 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "定期存款質借 "
+                }
+            ]
+        },
+        {
+            "title": "49",
+            "question": [
+                "有關金融機構出售不良債權時，下列何者得參與議價或投標？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "出售標的之借款人 "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "擔保物提供人 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "出售標的之保證人 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "一般資產管理公司 "
+                }
+            ]
+        },
+        {
+            "title": "50",
+            "question": [
+                "兼營信託業務之銀行依規定得逕行開辦之新種信託商品，主管機關得令其停止或暫停辦理之情事，下列敘述何者錯誤？ "
+            ],
+            "answersList": [
+                "4"
+            ],
+            "answerType": "choice",
+            "options": [
+                {
+                    "optTitle": "1",
+                    "optContent": "有礙市場秩序之虞  "
+                },
+                {
+                    "optTitle": "2",
+                    "optContent": "契約內容顯失公平 "
+                },
+                {
+                    "optTitle": "3",
+                    "optContent": "有影響財務業務健全之虞 "
+                },
+                {
+                    "optTitle": "4",
+                    "optContent": "於開辦後 15日內報主管機關備查 "
+                }
+            ]
+        }
+    ]
+}
