@@ -21,6 +21,9 @@
         "az400t7.json",
         "BankInternalControlandAuditRule41.json",
         "BankInternalControlandAuditRule42.json",
-        "BankInternalControlandAuditRule43.json"
+        "BankInternalControlandAuditRule43.json",
+        "BankInternalControlandAudit41.json",
+        "BankInternalControlandAudit42.json",
+        "BankInternalControlandAudit43.json"
     ]
 }
